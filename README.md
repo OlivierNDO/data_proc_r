@@ -1,1 +1,1 @@
-Kaggle competition scripts
+data processing functions in R
